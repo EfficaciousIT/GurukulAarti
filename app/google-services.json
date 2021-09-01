@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877142028482",
+    "firebase_url": "https://gurukularti.firebaseio.com",
+    "project_id": "gurukularti",
+    "storage_bucket": "gurukularti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877142028482:android:4ee677d7be7e2cbe",
+        "android_client_info": {
+          "package_name": "com.mobi.efficacious.gurukulaarti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877142028482-mj8g4kcll3hk0are73krljmanccja70h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobi.efficacious.gurukulaarti",
+            "certificate_hash": "296b1f24879d67589bfa9343175871f2c2eb934e"
+          }
+        },
+        {
+          "client_id": "877142028482-gapb2ptj8f4bddcbldas8c1csfplv4j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJ66_DZY7dAG18E4MlvArJ-hVpH4rxRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877142028482-gapb2ptj8f4bddcbldas8c1csfplv4j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
